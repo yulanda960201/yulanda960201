@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yuying (Yulanda) 
+ 👋 Hi, I’m Yuying (Yulanda) 
   
 
 <!---
